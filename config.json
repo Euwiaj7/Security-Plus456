@@ -1,7 +1,7 @@
 {
-    "prefix": "",
-    "botname": "",
-    "support": "https://discord.gg/",
+    "prefix": "a!",
+    "botname": "Advance Wick",
+    "support": "https://discord.gg/advancewick",
     "ghostping":  true,
     "ownerId": "",
     "ignore": [
